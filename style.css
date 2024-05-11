@@ -1,0 +1,25 @@
+body {
+	font-family: Times New Roman;
+	background-color: #f0f0f0;
+}
+
+#main {
+	width: 80%;
+	margin: 0 auto;
+	padding: 20px;
+	border: 4mm ridge rgba(211, 220, 50, .6);;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+	padding: 20px;
+	border: 4mm ridge rgba(211, 220, 50, .6);;
+	background-color: #000;
+	color: #fff;
+}
+
+p {
+	color: #ff0000;
+}
+
